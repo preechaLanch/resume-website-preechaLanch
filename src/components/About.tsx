@@ -120,7 +120,7 @@ const About: React.FC = () => {
             <div className=" w-full max-w-lg h-auto mx-auto px-4 sm:px-6 lg:px-8  flex items-center justify-center hover:scale-105 hover:rotate-2 transition-all duration-500 group">
               <img
                 className="rounded-2xl"
-                src="/public/image-preecha.jpg"
+                src="/image-preecha.jpg"
               />
             </div>
             <div className="absolute -top-4 -right-1 w-24 h-24 bg-emerald-500/20 dark:bg-emerald-400/20 rounded-full animate-pulse"></div>
