@@ -33,7 +33,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
         <div className="animate-fade-in-up">
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto mb-6 mt-24 bg-gradient-to-br from-blue-400 to-blue-600 dark:from-blue-300 dark:to-blue-500 rounded-full flex items-center justify-center text-4xl font-bold text-white shadow-xl hover:scale-110 hover:rotate-6 transition-all duration-500 cursor-default">
-              FIW
+              FI
             </div>
           </div>
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight hover:scale-105 transition-transform duration-300">
