@@ -55,7 +55,7 @@ const Hero: React.FC<HeroProps> = ({ scrollToSection }) => {
             </div>
             <div className="flex items-center hover:text-blue-300 dark:hover:text-blue-200 hover:scale-110 transition-all duration-300 cursor-default">
               <Phone className="w-5 h-5 mr-2 text-blue-400 dark:text-blue-300" />
-              <span>063 253 7757</span>
+              <span>063 446 3840</span>
             </div>
             <div className="flex items-center hover:text-blue-300 dark:hover:text-blue-200 hover:scale-110 transition-all duration-300 cursor-default">
               <MapPin className="w-5 h-5 mr-2 text-blue-400 dark:text-blue-300" />

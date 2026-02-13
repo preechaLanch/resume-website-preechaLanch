@@ -138,7 +138,7 @@ const Contact: React.FC = () => {
                 <div>
                   <p className="font-semibold">Phone</p>
                   <p className="text-slate-300 dark:text-slate-400 group-hover:text-white transition-colors duration-300">
-                    063-2537757
+                    063-446-3840
                   </p>
                 </div>
               </div>

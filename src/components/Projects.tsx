@@ -7,6 +7,25 @@ const Projects: React.FC = () => {
 
   const projects = [
     {
+      title: "Notification Line Web Gmail",
+      description:
+        "A Node.js web application that monitors a Gmail inbox and sends notifications to a LINE group using the LINE Notify API. Features include OAuth2 Gmail integration, real-time email monitoring, and a web dashboard for configuration.",
+      image:
+        "https://repository-images.githubusercontent.com/781964013/2e2e2e2e-2e2e-4e2e-8e2e-2e2e2e2e2e2e",
+      technologies: [
+        "Node.js",
+        "Express.js",
+        "Gmail API",
+        "LINE Notify API",
+        "OAuth2",
+        "JavaScript",
+        "Bootstrap",
+      ],
+      liveUrl: "#",
+      githubUrl: "https://github.com/preechaLanch/notification-line-web-gmail-preecha",
+      featured: false,
+    },
+    {
       title: "MEMEMASH (Mini Project)",
       description:
         "MEMEMASH is a web application designed to compare and rank memes to determine which one is the best. It features meme-versus battles, daily like tracking, ranking leaderboard, and an Elo Rating Algorithm to calculate meme scores dynamically.",
