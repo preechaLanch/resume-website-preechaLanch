@@ -9,17 +9,16 @@ const Projects: React.FC = () => {
     {
       title: "Notification Line Web Gmail",
       description:
-        "A Node.js web application that monitors a Gmail inbox and sends notifications to a LINE group using the LINE Notify API. Features include OAuth2 Gmail integration, real-time email monitoring, and a web dashboard for configuration.",
+        "A Next.js web application that monitors a Gmail inbox and sends notifications to a LINE group using the LINE Notify API. Features include OAuth2 Gmail integration, real-time email monitoring, a web dashboard for configuration, and uses Supabase as the database backend. The web app also provides notifications for users who are not logged in with Gmail or LINE.",
       image:
         "https://repository-images.githubusercontent.com/781964013/2e2e2e2e-2e2e-4e2e-8e2e-2e2e2e2e2e2e",
       technologies: [
-        "Node.js",
-        "Express.js",
+        "Next.js",
+        "TypeScript",
+        "Supabase",
         "Gmail API",
         "LINE Notify API",
         "OAuth2",
-        "JavaScript",
-        "Bootstrap",
       ],
       liveUrl: "#",
       githubUrl: "https://github.com/preechaLanch/notification-line-web-gmail-preecha",
